@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"da",
+				"donated"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Toggle Comment"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"readme",
+				"ReadmePlease"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"pacage Contrl : in",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 498.0
+	},
+	"console":
+	{
+		"height": 155.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/rains/OneDrive/문서/roux_website/_scripts/SpryTabbedPanels.css",
+		"/C/Users/rains/Desktop/repos/git-basics/readme.txt",
+		"/C/Users/rains/OneDrive/문서/roux_website/index.htm",
+		"/C/Users/rains/OneDrive/문서/roux_website/_css/main.css",
+		"/C/Users/rains/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/rains/Downloads/프로그래밍/Ex_Files_FoP_Fun/Ex_Files_FoP_Fun/Linda Programing Basic/ch02/First/script.js",
+		"/C/Users/rains/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/readme.md",
+		"/C/Users/rains/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/rains/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/rains/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/rains/OneDrive/문서/roux_website/admissions/request.htm",
+		"/C/Users/rains/AppData/Roaming/Sublime Text 3/Packages/Dracula Color Scheme/README.md",
+		"/C/Users/rains/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/rains/Downloads/프로그래밍/Ex_Files_FoP_Fun/Ex_Files_FoP_Fun/Linda Programing Basic/ch03/Whitespace/script.js",
+		"/C/Users/rains/Downloads/프로그래밍/Ex_Files_FoP_Fun/Ex_Files_FoP_Fun/Linda Programing Basic/ch04/switch statement/script.js",
+		"/C/Users/rains/OneDrive/문서/roux_website/_scripts/SpryTabbedPanels.js",
+		"/C/Users/rains/OneDrive/문서/roux_website/test.js",
+		"/C/Users/rains/Downloads/프로그래밍/Ex_Files_FoP_Fun/Ex_Files_FoP_Fun/Linda Programing Basic/ch03/Numbers/container.html",
+		"/C/Users/rains/Downloads/프로그래밍/Ex_Files_FoP_Fun/Ex_Files_FoP_Fun/Linda Programing Basic/ch11/Debugger Example/container.html",
+		"/C/Users/rains/AppData/Roaming/Sublime Text 3/Packages/User/chrome.sublime-build",
+		"/C/Users/rains/Downloads/프로그래밍/Ex_Files_FoP_Fun/Ex_Files_FoP_Fun/Linda Programing Basic/ch02/First/container.html",
+		"/C/Users/rains/OneDrive/문서/roux_website/error.htm"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"icanmart",
+			"com",
+			"of",
+			"auto_complete_commit_on_tab",
+			"footer",
+			"Footer",
+			"footer",
+			"body",
+			"<h2>",
+			"<p>",
+			"am.&rdquo;",
+			"&rdquo;",
+			"&ldquo;",
+			"&rsquo;",
+			"<p>",
+			"<p",
+			"p",
+			"class",
+			"id=",
+			"id",
+			"li",
+			"homeHeader",
+			"admissions",
+			"Admissions",
+			"admissions",
+			"Join",
+			"branding",
+			"Roux",
+			"a",
+			"Roux",
+			"500",
+			"while",
+			"defaultTab",
+			"element",
+			"background",
+			"TabbedPanelsTabSelected",
+			"margin",
+			"programs",
+			"<p class=\"branding\">We are passionate about the role of <span class=\"orange\">innovation</span> and <span class=\"lavender\">creativity</span> in solving the <span class=\"blue\">design</span> challenges of tomorrow. <a href=\"admissions.htm\" title=\"admissions\"> Join us.</a></p>\n</header>\n<section class=\"spotlight info condense\">\n<h2>Student Spotlight</h2>\n<img src=\"_images/featured_student.jpg\" width=\"285\" height=\"230\" alt=\"Featured student work\">\n",
+			"passionate",
+			"About",
+			"about",
+			"class",
+			"this",
+			"Academy",
+			"role",
+			"passionate",
+			"programs",
+			"header",
+			"class"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 30.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "github.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ind",
+				"roux_website\\index.htm"
+			],
+			[
+				".css",
+				"roux_website\\_css\\main.css"
+			],
+			[
+				"inde",
+				"roux_website\\index.htm"
+			],
+			[
+				"in",
+				"roux_website\\index.htm"
+			],
+			[
+				"main.css",
+				"roux_website\\_css\\main.css"
+			],
+			[
+				"sprjs",
+				"roux_website\\_scripts\\SpryTabbedPanels.js"
+			],
+			[
+				"sprp",
+				"roux_website\\_scripts\\SpryTabbedPanels.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\rains\\OneDrive\\문서\\roux_website\\linda_programming_basic.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
