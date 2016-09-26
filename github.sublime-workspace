@@ -24,7 +24,7 @@
 	"command_palette":
 	{
 		"height": 375.0,
-		"last_filter": "in",
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -96,9 +96,13 @@
 	},
 	"expanded_folders":
 	[
+		"/C/Users/rains/Desktop/repos/git-basics",
+		"/C/Users/rains/Desktop/repos/git-basics/_css"
 	],
 	"file_history":
 	[
+		"/C/Users/rains/Desktop/repos/git-basics/index.html",
+		"/C/Users/rains/Desktop/repos/git-basics/_css/main.css",
 		"/C/Users/rains/OneDrive/문서/roux_website/_scripts/SpryTabbedPanels.css",
 		"/C/Users/rains/Desktop/repos/git-basics/readme.txt",
 		"/C/Users/rains/OneDrive/문서/roux_website/index.htm",
@@ -139,6 +143,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Page title",
+			"title",
+			"<h1>",
+			"	<",
+			"h1",
+			"<h1>",
+			"boilerplate",
+			"js",
 			"icanmart",
 			"com",
 			"of",
